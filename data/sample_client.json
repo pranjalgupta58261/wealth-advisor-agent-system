@@ -1,0 +1,12 @@
+{
+  "client_id": "C001",
+  "base_currency": "USD",
+  "transactions": [
+    {"transaction_id": "T001", "date": "2026-09-01", "category": "groceries", "amount": 120.00},
+    {"transaction_id": "T002", "date": "2026-09-03", "category": "groceries", "amount": 180.00},
+    {"transaction_id": "T003", "date": "2026-09-05", "category": "utilities", "amount": 150.00},
+    {"transaction_id": "T004", "date": "2026-09-07", "category": "travel", "amount": 250.00},
+    {"transaction_id": "T005", "date": "2026-09-09", "category": "groceries", "amount": 140.00},
+    {"transaction_id": "T006", "date": "2026-09-12", "category": "travel", "amount": 5200.00}
+  ]
+}
